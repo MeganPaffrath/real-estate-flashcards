@@ -1,18 +1,9 @@
-let cards = {
-  chapter1: {
-    cards: [
-      ['1', 'def 1'],
-      ['2', 'def 2'],
-      ['3', 'def 3'],
-      ['4', 'def 4'],
-    ],
-  },
-};
+import { cards } from './flashcards.js';
 
 let fCard = document.getElementById('flash-card');
 
 // set initial card
-let chapter = 'chapter1';
+let chapter = 'chapter9';
 let cardIndex = 0;
 let side = 0;
 fCard.innerHTML = cards[chapter]['cards'][cardIndex][side];
@@ -38,8 +29,11 @@ next.addEventListener('click', () => {
     cardIndex = 0;
   }
 
+  side = 0;
+
   fCard.innerHTML = cards[chapter]['cards'][cardIndex][0];
   document.getElementById('card-index').innerHTML = cardIndex + 1;
+  fCard.style.backgroundColor = '#d8d8d8';
 });
 
 // handle remove
