@@ -1,0 +1,13 @@
+#flash-card {
+  background: #d8d8d8;
+  width: 500px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+#buttons {
+  text-align: center;
+}
