@@ -3,15 +3,34 @@ import { cards } from './flashcards.js';
 let fCard = document.getElementById('flash-card');
 
 // set initial card
-let chapter = 'chapter9';
-let cardIndex = 0;
-let side = 0;
-fCard.innerHTML = cards[chapter]['cards'][cardIndex][side];
+let chapter, cardIndex, side, cardCount;
 
-// set card count
-let cardCount = cards[chapter]['cards'].length;
-document.getElementById('card-index').innerHTML = cardIndex + 1;
-document.getElementById('card-count').innerHTML = cardCount;
+function initCard(chapterName) {
+  chapter = chapterName;
+  cardIndex = 0;
+  side = 0;
+  fCard.innerHTML = cards[chapter]['cards'][cardIndex][side];
+  cardCount = cards[chapter]['cards'].length;
+  document.getElementById('card-index').innerHTML = cardIndex + 1;
+  document.getElementById('card-count').innerHTML = cardCount;
+}
+
+initCard('chapter10');
+
+// set option buttons
+let options = document.getElementById('options');
+for (let chapterTitle in cards) {
+  console.log(chapterTitle);
+
+  let button = document.createElement('button');
+  button.id = chapterTitle;
+  button.textContent =
+    chapterTitle + ' (' + cards[chapterTitle]['cards'].length + ')';
+  button.addEventListener('click', () => {
+    initCard(chapterTitle);
+  });
+  options.appendChild(button);
+}
 
 // Handle flip
 let flip = document.getElementById('flip');
@@ -46,6 +65,11 @@ remove.addEventListener('click', () => {
 
   cardCount = cards[chapter]['cards'].length;
   console.log(cardCount);
+
+  let chapterBtn = document.getElementById(chapter);
+  chapterBtn.innerHTML = chapter + ' (' + cards[chapter]['cards'].length + ')';
+  console.log(chapterBtn);
+
   if (cardIndex >= cardCount) {
     cardIndex = 0;
   }
