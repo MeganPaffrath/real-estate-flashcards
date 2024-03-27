@@ -136,6 +136,87 @@ let cards = {
         'A lease has 2 characteristics (dual legal nature of a lease)',
         '1. A conveyance by the landlord to tenant of an estate in real property covering the premises leased, 2. A contract between the landlord and tenant, which governs both the landlords delivery and mantenance of the premises and the tenants possession of, use of, and payments for the premises',
       ],
+      [
+        'A lease of one year or less can be either _________ or ___________.',
+        'written or verbal',
+      ],
+      ['A lease for more than one year must be _______', 'in writting'],
+      ['If a lease is written, it must be signed by the _______', 'lessor'],
+      [
+        'What are the minimum requirements of a lease in CA?',
+        '1. must state the length/duration of the lease 2. must include the amount of rend and the date on which it is to be paid 3. must contain the names of the parties 4. must give evidence of both the landlords and the tenants intent to create a landlord-tenant relationship',
+      ],
+      [
+        'In the case of a ________ _________, the lease agreement must state the periods involved',
+        'periodic tenancy',
+      ],
+      [
+        'Unless a lease agreement states otherwise, rent becomes due only at the ________',
+        'end of the term',
+      ],
+      [
+        'Regarding an ____________, if there is no due date given in the lease agreement, then the rent is due on the last business day of the calendar year',
+        'estate for years',
+      ],
+      [
+        'Contract rent',
+        'is the term given to the actual amount of rent to be paid',
+      ],
+      ['Economic Rent', 'is the amount of rent that a property could yield'],
+      [
+        'Any amount of rent paid in advance to the landlord must be claimed on the landlords _______ for that year',
+        'income taxes',
+      ],
+      [
+        'Rent control',
+        'is a governmnet regulation of the amount of rent a landlord may charge a tenant',
+      ],
+      [
+        'Under CA law, no governement agency may adopt any rent control restrictions on _______',
+        'non residential property',
+      ],
+      [
+        'assignment',
+        'the transfer of a tenants remaining rental rights in a property to a third party',
+      ],
+      [
+        'Subletting or subleasing',
+        'is the partial transfer of a tenants right in a rental property to a third party',
+      ],
+      [
+        'Assignment and subleasing transfer _______',
+        'Possession only (not ownership)',
+      ],
+      [
+        'sandwich lease',
+        'a leasehold interest in a property that lies between the primary, or ownership, interest, and the operating, or tenancy, interest. Note: a lessee is both a tenant and a landlord of the same property',
+      ],
+      ['lease renewal', 'creates a new and distinct tenancy'],
+      [
+        'lease extension',
+        'is a continuation in possession under the original lease',
+      ],
+      ['Security deposits cannot be labeled as...', 'nonrefundable'],
+      [
+        'The maximum allowed security deposits',
+        'For an unfurnished rental is 2 months and for a furnished rental is 3 months',
+      ],
+      [
+        'Security deposit',
+        'made up of the funds provided from the tenant to the landlord, in advance of possession, which are held by the landlord to use for any damages or unpaid rent when the tenant leaves the property',
+      ],
+      [
+        'Inspection report / Statement of property condition',
+        'states the condition of the property upon the tenants moving in and moving out of the property',
+      ],
+      [
+        'If there is no damage or cleaning required to the vacated proptery, then the landlord has a maximum of ____ days from the date of the tenant vacating the property to refund the security deposits',
+        '21 days',
+      ],
+      [
+        'Landlords duties in a residential lease',
+        '1. guaranteeing that the property meets the minimum health and housing codes. 2. esuring that the propertys common areas are safe 3. respect the tenants use and quiet enjoyment of the property 4. landlord must live by federal and state fair housing laws 5. Landlord can end a month-to-month agreement with a 30 day notice or an agreement lasting over a year with a 60 day notice 6. landlord can inspect a property periodically, but must follow specific guidelines when doing so',
+      ],
     ],
   },
 };
