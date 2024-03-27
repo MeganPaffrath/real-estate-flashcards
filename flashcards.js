@@ -125,7 +125,7 @@ let cards = {
         'Currently referred to a MARKET RENT, it is the rental income that real estate can command in an open, competitive market at any given time, in contrast with contract rent, or the income actually received under a lease agreement',
       ],
       [
-        'In a lease, the Lossor(owner has a _______ interest; the Leassee (tenant) has a _____ interest',
+        'In a lease, the Lessor(owner) has a _______ interest; the Leassee (tenant) has a _____ interest',
         'freehold interest, lease-hold interest',
       ],
       [

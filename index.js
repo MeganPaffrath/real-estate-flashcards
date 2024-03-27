@@ -63,6 +63,7 @@ let remove = document.getElementById('remove');
 remove.addEventListener('click', () => {
   cards[chapter]['cards'].splice(cardIndex, 1);
   cardCount = cards[chapter]['cards'].length;
+  side = 0;
 
   let chapterBtn = document.getElementById(chapter);
   chapterBtn.innerHTML = chapter + ' (' + cards[chapter]['cards'].length + ')';
