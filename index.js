@@ -20,8 +20,6 @@ initCard('chapter10');
 // set option buttons
 let options = document.getElementById('options');
 for (let chapterTitle in cards) {
-  console.log(chapterTitle);
-
   let button = document.createElement('button');
   button.id = chapterTitle;
   button.textContent =
@@ -58,17 +56,11 @@ next.addEventListener('click', () => {
 // handle remove
 let remove = document.getElementById('remove');
 remove.addEventListener('click', () => {
-  console.log('remove index ' + cardIndex);
-  console.log(cards[chapter]['cards']);
   cards[chapter]['cards'].splice(cardIndex, 1);
-  console.log(cards[chapter]['cards']);
-
   cardCount = cards[chapter]['cards'].length;
-  console.log(cardCount);
 
   let chapterBtn = document.getElementById(chapter);
   chapterBtn.innerHTML = chapter + ' (' + cards[chapter]['cards'].length + ')';
-  console.log(chapterBtn);
 
   if (cardIndex >= cardCount) {
     cardIndex = 0;
