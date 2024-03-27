@@ -9,9 +9,14 @@ function initCard(chapterName) {
   chapter = chapterName;
   cardIndex = 0;
   side = 0;
-  fCard.innerHTML = cards[chapter]['cards'][cardIndex][side];
   cardCount = cards[chapter]['cards'].length;
-  document.getElementById('card-index').innerHTML = cardIndex + 1;
+  if (cardCount == 0) {
+    fCard.innerHTML = 'No more cards for this chapter';
+    document.getElementById('card-index').innerHTML = cardIndex;
+  } else {
+    fCard.innerHTML = cards[chapter]['cards'][cardIndex][side];
+    document.getElementById('card-index').innerHTML = cardIndex + 1;
+  }
   document.getElementById('card-count').innerHTML = cardCount;
 }
 
@@ -66,7 +71,7 @@ remove.addEventListener('click', () => {
     cardIndex = 0;
   }
   if (cardCount == 0) {
-    fCard.innerHTML = 'refresh to start over';
+    fCard.innerHTML = 'No more cards for this chapter';
     document.getElementById('card-index').innerHTML = 0;
   } else {
     fCard.innerHTML = cards[chapter]['cards'][cardIndex][side];
