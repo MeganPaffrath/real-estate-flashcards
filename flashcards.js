@@ -140,7 +140,10 @@ let cards = {
         'A lease of one year or less can be either _________ or ___________.',
         'written or verbal',
       ],
-      ['A lease for more than one year must be _______', 'in writting'],
+      [
+        'A lease for more than one year must be _______',
+        'in writting (Statute of Frauds',
+      ],
       ['If a lease is written, it must be signed by the _______', 'lessor'],
       [
         'What are the minimum requirements of a lease in CA?',
@@ -216,6 +219,26 @@ let cards = {
       [
         'Landlords duties in a residential lease',
         '1. guaranteeing that the property meets the minimum health and housing codes. 2. esuring that the propertys common areas are safe 3. respect the tenants use and quiet enjoyment of the property 4. landlord must live by federal and state fair housing laws 5. Landlord can end a month-to-month agreement with a 30 day notice or an agreement lasting over a year with a 60 day notice 6. landlord can inspect a property periodically, but must follow specific guidelines when doing so',
+      ],
+      [
+        'Under a residential lease, the landlord may only enter the rental property durring ________, and with _______',
+        'regular business hours and with advance notice (24 hours). Except in the case of emergency.',
+      ],
+      [
+        'Rights and responsibilities of tenants include...',
+        '1. pay rent when it is due 2. must not damage property 3. must give at least 30 days notice prior to vacating property 4. must not interfere with the rights of other tenants 5. Properties must maintin certain health and housing codes 6. keep the premises clean and sanitary 7. have the right to use and enjoy the property',
+      ],
+      [
+        'rental offset',
+        'Renters right to spend up to one months rent on repairs if the landlord fails to make requested repairs in time',
+      ],
+      [
+        'Eviction',
+        'the legal procedure of removing a tenant from a property because there is a breach of the lease or rental agreement',
+      ],
+      [
+        'In regards to eviction, it is illigal for a landlord to _________',
+        'forcibly remove the tenant himself, take matters into their own hands, by shutting off utilities, changing the locks, removing the doors, tossing the tenants possessions out of the property, or trespassing',
       ],
     ],
   },
