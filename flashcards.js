@@ -414,6 +414,127 @@ let cards = {
       ],
     ],
   },
+  chapter12: {
+    cards: [
+      [
+        'In 1943 case People v Sipper it was held that',
+        'the practice of law is not simply performing court appearances for another party, but that the larger definition of "to practice law" also includes giving legal advise and counsel and preparing legal instruments by which legal rights are secured',
+      ],
+      [
+        'PC 487',
+        '"Grand Theft" is theft of money, labor, real property, or personal property that exceeds $950, "Petty Theft" is theft under $950',
+      ],
+      [
+        'PC 470, 473',
+        'To forge or otherwise sign the name of someone else, or of a fictitious person, without the authority from that person; and otherwise making, changing, forging, or counterfeiting documents (in this case, leases, deeds, or checks), and then passing off any such falsified documents as genuine in order to defraud another.',
+      ],
+      [
+        'PC 484b-c',
+        'The diversion of construction funds from their intended purpose; also, using a false voucher to obtain construction loan funds.',
+      ],
+      [
+        'PC 496c',
+        'Copying documents owned by a title company without permission, and with the intent to use them.',
+      ],
+      [
+        'PC 487b-c',
+        'Unauthorized conversion of real estate into personal property and appropriation of the same.',
+      ],
+      [
+        'PC 502.5',
+        'Removal of a structure from mortgaged real property, or after a foreclosure sale, with the intent to defraud or to injure the mortgagee or purchaser.',
+      ],
+      [
+        'PC 506',
+        'The fraudulent appropriation or secreting of trust funds by a broker or other fiduciary.',
+      ],
+      [
+        'PC 504b',
+        'Failure by debtor, upon sale of property covered by a security agreement, to pay to the secured party the amount due under the security agreement (or the proceeds, whichever is less).',
+      ],
+      [
+        'PC 518, 519',
+        'Obtaining property from another by threatening to accuse that person of a crime or to expose his/her secrets.',
+      ],
+      [
+        'PC 532a',
+        'Making, benefiting by, or reaffirming falsification regarding anyones financial information.',
+      ],
+      [
+        'PC 532c',
+        'Offering/giving parcels of real property with tickets of admission or at drawings.',
+      ],
+      ['PC 532e', 'Giving a kickback of construction funds.'],
+      [
+        'PC 533',
+        'Fraudulently selling the same land twice to different persons.',
+      ],
+      [
+        'PC 534',
+        'Willful concealment by a married person of the necessity for concurrence of a spouse in the sale or mortgaging of land.',
+      ],
+      [
+        'PC 536',
+        'Any false statement by a licensee to another regarding the price, other accounting, the quality or quantity of a property, or other lies, is a misdemeanor and may lead to fines and imprisonment.',
+      ],
+      [
+        'PC 556-556.2',
+        'The placement of advertising signs on public or private property without permission, except in the case of a legal public notice.',
+      ],
+      [
+        'PC 639-639a',
+        'Bribery of a lender to obtain credit, OR the acceptance of such bribery.',
+      ],
+      [
+        'PC 641.4',
+        'Commercial bribery by a title insurance company, insurer, or controlled escrow company, or any employee of such companies, who pays, directly or indirectly, compensation or other valuable consideration to a licensee, thereby violating Insurance Code Section 12404; OR the licensee who accepts such bribery as an inducement to refer the title business, thereby violating the Business and Professions Code, Section 10177.4. This violation is punishable by imprisonment and/or a fine of $10,000 FOR EACH illegal transaction.',
+      ],
+      [
+        'Real Property Sales Contract / Contract of Sale / Land Installment Contract',
+        'an agreement to convey title to land upon satisfaction of specified conditions set forth in the contract and which does not require conveyance within one year of formation of the contract',
+      ],
+      [
+        'CC 2985.2',
+        'A seller, without the buyers consent, under an unrecorded contract of sale encumbers the land in an amount exceeding the present contract balance.',
+      ],
+      [
+        'CC 2985.3',
+        'While there is a payment due on an obligation secured by the land, a seller under a contract of sale appropriates a payment received from the buyer to any purpose except payment on that obligation.',
+      ],
+      [
+        'CC 2985.4',
+        'Failure by the seller under a contract of sale to apply to those purposes pro rata tax and insurance payments received from the buyer.',
+      ],
+      [
+        'A violation of the licensing laws or other related requirement might not neccessarily have to have been already commited for the ______',
+        'Commissioner to take action against a party',
+      ],
+      [
+        'CA licensing laws make it clear that if there is a need to grant a preliminary injunction or temporary restraining order, the defendant must receive a minimum of ____ days notice before either the injunction or restraining order is granted',
+        '5',
+      ],
+      [
+        'If the Commissioner can show funds and properties of others in the defendants possession, then a case for _____ might be made',
+        'direct action',
+      ],
+      [
+        'If an audit conducted by the Commissioner shows either commingling or conversion of trust funds in excess of $10,000...',
+        'the court may issue an order that restrains the licensee from committing any more or additional acts to continue to inappropriately handle funds',
+      ],
+      [
+        'Advance Fees for a Loan Secured by Lien on Real Property under section 10085.5',
+        'is illegal for anyone to claim, demand, charge, receive, collect, or contract for an advance fee for EITHER (a) soliciting lenders on behalf of borrowers or performing other services for borrowers in connection with any loan to be secured directly or collaterally by a lien on real property, before the borrower becomes obligated to complete the loan; OR (b)performing any other activities for which a license is required, unless the person is a licensed real estate broker and is acting in accordance with the law.',
+      ],
+      [
+        'Trust account violations such as commingling/conversion in excess of $10,000 or claim/demand/charge/receive/collect/contract for an advance fee is punishable for INDIVIDUAL PERSONS by...',
+        'maximum of $10,000 or up to 6 months prison time',
+      ],
+      [
+        'Trust account violations such as commingling/conversion in excess of $10,000 or claim/demand/charge/receive/collect/contract for an advance fee is punishable for CORPORATIONS by...',
+        'maximum of $50,000',
+      ],
+    ],
+  },
 };
 
 export { cards };
