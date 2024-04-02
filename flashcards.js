@@ -47,7 +47,7 @@ let cards = {
   chapter10: {
     cards: [
       [
-        'Leasehold estates are cometimes called....',
+        'Leasehold estates are sometimes called....',
         'less than freehold estates - these are what we think of as "renting" or "leasing"',
       ],
       [
@@ -239,6 +239,177 @@ let cards = {
       [
         'In regards to eviction, it is illigal for a landlord to _________',
         'forcibly remove the tenant himself, take matters into their own hands, by shutting off utilities, changing the locks, removing the doors, tossing the tenants possessions out of the property, or trespassing',
+      ],
+    ],
+  },
+  chapter11: {
+    cards: [
+      [
+        'Agent',
+        'A person who is empowered by contract to represent the interest of someone called a Principal',
+      ],
+      [
+        'Agency Relationship / Fiduciary Relationship',
+        'The relationship between an Agent and a Principal. When one person is empowered by another to represent him in any type of transaction',
+      ],
+      ['Fiduciary', 'The agaent in an agency relationship'],
+      [
+        'The 4 ways agency is created',
+        'Written or expressed (intentions in words), implied (demonstrated by their acts and conduct), ostensible agancy (arises by the actions of the parties), ratification (principal-buyer/seller accepts the conduct of someone who acted without prior authorization as the principals agent)',
+      ],
+      [
+        'In CA, there are 3 ways to create agency',
+        'Agreement, Ratification, Estoppel',
+      ],
+      [
+        'When an agent works FOR a principal, that person is called a _____',
+        'Client',
+      ],
+      [
+        'When an agent works WITH a person, that individual is a ______',
+        'Customer',
+      ],
+      ['Universal Agent', 'Handles all delegated business of principal'],
+      ['General Agent', 'Handles multiple transactions of a client'],
+      [
+        'Special Agent',
+        'Handles one transaction for one seller of one property',
+      ],
+      [
+        'Agency Coupled with an Interest',
+        'When the real estate licensee is a partner in the ownership of the property',
+      ],
+      [
+        'Single Agent',
+        'A real estate broker who acts as an agent to ONLY the seller or ONLY the buyer',
+      ],
+      [
+        'Dual Agent',
+        'A real estate agent that represents both the buyer and seller in the SAME transactions. Note: this is legal, but considered by many attorneys as a conflict of interest',
+      ],
+      [
+        'A good agent...',
+        'CHOOSES who he/she wishes to represent. COMMUNICATES the descision to all parties. CONDUCTS business in a manner that is consistent with the choices made and communicated',
+      ],
+      [
+        'What does an agent ow his/per principal?',
+        'CARE - taking due care of that which is entrusted to the agent. OBEDIENCE - lawful instructions of the principal are followed. ACCOUNTING - handling money with care and closing statement figures. LOYALTY - putting the principal first, and avoiding dual agency. NOTICE/DISCLOSURE - material facts disclosed as well as relationships and important busincess facts for the principal to make decisions upon',
+      ],
+      [
+        '3 things an agent owes 3rd party customers',
+        'Honesty, Accuracy, Disclosure of Defects',
+      ],
+      [
+        'Puffing',
+        'An exaggeration of superlative comment (unethical but legal)',
+      ],
+      [
+        'Fraud',
+        'deception intended to cause a person to give up property or a lawful right',
+      ],
+      [
+        'Latent Defects',
+        'Something that is known to the seller but not to the purchaser and not readily discoverable by inspection. Failure to disclose latent defects is misrepresentation',
+      ],
+      [
+        'If a seller does not want the defects in his/her property disclosed to the purchasers, it is best...',
+        'not to take the listing',
+      ],
+      [
+        'Material defects',
+        'such as leaking basement, leaking roofs, and termites must be disclosed regardless f whom the agent represents',
+      ],
+      [
+        'What is required to collect a commission?',
+        '1. Must be a licensed real estate broker or salesperson under a broker. 2. Must have been employed by the principal under a valid contract. 3. Must have been the procuring cause of the sale',
+      ],
+      [
+        'Commission an be a ...',
+        '1. Percentage of sale price 2. Flat fee or salary 3. combination of the 2',
+      ],
+      [
+        'Sherman Antitrust Act Prohibits',
+        'PRICE FIXING - collusion between brokers and sales people with competing companies to set commission rates is illegal, GROUP BOYCOTTS - licenses should never "get together" and boycott a company because of their business practices, DIVISION OF MARKETS BY LOCATION OR PRICE - ex "you take the south side of town"',
+      ],
+      [
+        'Brokers and Slaespersons are usually independent contractors and are responsible for their own...',
+        'FICA and Social Security',
+      ],
+      [
+        'A brokers can control ____ the independent contractor does, but ____ ____ it will be done',
+        'what, not how',
+      ],
+      [
+        'Five types of listing agreements',
+        '1. Exclusive Right to Sell 2. Exclusive Agency 3. Open 4. Net Listing 5. Agency Couples with an Interest',
+      ],
+      [
+        'Listing Agreement - Exclusive right to sell',
+        'broker is always entitled to a fee',
+      ],
+      [
+        'Listing Agreement - Exclusive Agency',
+        'Only one broker is allowed to act on behalf of the principal. If the owner sells the property him/herself, no commission is paid to the broker',
+      ],
+      [
+        'Listing Agreement - Open',
+        'Seller retains the right to hire any number of brokers to sell his property. If the seller sells the property without the aid of a broker, he/she pays no commission',
+      ],
+      [
+        'Listing Agreement - Net Listing',
+        'Illegal in most states - seller is to receive a certain amount of money from the sale and any amount over this will be paid to the broker as commission',
+      ],
+      [
+        'Listing Agreement - Agency Couples with Interest',
+        'Agency relationship in which the agent is given an estate or interest in the property',
+      ],
+      [
+        'Agreements',
+        'A copy of all real estate-related agreements and documents must be given to the signing party immediately after the document is signed, under the Commissionsers Regulations',
+      ],
+      [
+        'Record Keeping timeline',
+        'brokers and salespersons records must be maintained for a MINIMUM of 3 years',
+      ],
+      [
+        'Money must be deposited within ___ business days followng receipt of the funds by the broker or the brokers salesperson',
+      ],
+      [
+        'Conversion',
+        'the unlawful misappropriation and use of a clients funds by a licensee - much more serious than commingling',
+      ],
+      [
+        'Real estate agent',
+        'A person who is licensed by the DRE, who holds either a broker or salesperson licence, and negotiates sales for other people',
+      ],
+      [
+        'Real Estate Broker',
+        'A license holder (boss or owner of a real estate company) who is allowed to employ other real estate agents (whether salespersons or other brokers)',
+      ],
+      [
+        'Real Estate Salesperson',
+        'Person licensed by DRE who holds a salesperson license. Also refered to as Real Estate Associates and Associate Licensees',
+      ],
+      [
+        'Broker Associate',
+        'A real estate broker who has entered into a written contract to act as the salesperson/agent of another broker in connection with acts requirring a real estate license and to function under the employing brokers supervision',
+      ],
+      [
+        'Cooperating agent',
+        'one who attempts to find a buyer for the other brokers listing and THEN is to act as the buyers agent, rather than the subagent of the seller',
+      ],
+      [
+        'Cooperating broker',
+        'a non-listing broker who also works to sell the listed property',
+      ],
+      ['Agreements between brokers _____ to be in writting', 'Do not'],
+      [
+        'Agreements between broker and a salesperson must ____ be in writing',
+        'always',
+      ],
+      [
+        'Section 13004.1 provides that an individual will not be considered an employee for state income tax purposes if all of the following conditions are met...',
+        '1. Individual is licensed by the DRE and is performing brokerage services as a real estate licensee on a commission basis 2. All remuneration for such services is related directly to sales or other output rather than the number of hours worked 3. services are performed pursuant to a written agreement between the individual and the supervising broker',
       ],
     ],
   },

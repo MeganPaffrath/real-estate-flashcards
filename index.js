@@ -20,7 +20,7 @@ function initCard(chapterName) {
   document.getElementById('card-count').innerHTML = cardCount;
 }
 
-initCard('chapter10');
+initCard('chapter11');
 
 // set option buttons
 let options = document.getElementById('options');
