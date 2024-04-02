@@ -252,7 +252,7 @@ let cards = {
         'Agency Relationship / Fiduciary Relationship',
         'The relationship between an Agent and a Principal. When one person is empowered by another to represent him in any type of transaction',
       ],
-      ['Fiduciary', 'The agaent in an agency relationship'],
+      ['Fiduciary', 'The agent in an agency relationship'],
       [
         'The 4 ways agency is created',
         'Written or expressed (intentions in words), implied (demonstrated by their acts and conduct), ostensible agancy (arises by the actions of the parties), ratification (principal-buyer/seller accepts the conduct of someone who acted without prior authorization as the principals agent)',
@@ -292,7 +292,7 @@ let cards = {
         'CHOOSES who he/she wishes to represent. COMMUNICATES the descision to all parties. CONDUCTS business in a manner that is consistent with the choices made and communicated',
       ],
       [
-        'What does an agent ow his/per principal?',
+        'What does an agent owe his/per principal?',
         'CARE - taking due care of that which is entrusted to the agent. OBEDIENCE - lawful instructions of the principal are followed. ACCOUNTING - handling money with care and closing statement figures. LOYALTY - putting the principal first, and avoiding dual agency. NOTICE/DISCLOSURE - material facts disclosed as well as relationships and important busincess facts for the principal to make decisions upon',
       ],
       [
@@ -317,15 +317,15 @@ let cards = {
       ],
       [
         'Material defects',
-        'such as leaking basement, leaking roofs, and termites must be disclosed regardless f whom the agent represents',
+        'such as leaking basement, leaking roofs, and termites must be disclosed regardless of whom the agent represents',
       ],
       [
         'What is required to collect a commission?',
         '1. Must be a licensed real estate broker or salesperson under a broker. 2. Must have been employed by the principal under a valid contract. 3. Must have been the procuring cause of the sale',
       ],
       [
-        'Commission an be a ...',
-        '1. Percentage of sale price 2. Flat fee or salary 3. combination of the 2',
+        'Commission can be a ...',
+        '1. Percentage of sale price 2. Flat fee or salary 3. combination of the two',
       ],
       [
         'Sherman Antitrust Act Prohibits',
@@ -373,6 +373,7 @@ let cards = {
       ],
       [
         'Money must be deposited within ___ business days followng receipt of the funds by the broker or the brokers salesperson',
+        '3',
       ],
       [
         'Conversion',
